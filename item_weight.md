@@ -31,3 +31,4 @@ public double SingleItemWeight
     }
 }
 ```
+And also update `Weight` property in a similar way.
